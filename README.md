@@ -1,4 +1,5 @@
 ## Hi there 👋
+![photo_2025-05-26 11 26 04](https://github.com/user-attachments/assets/07ddc86e-1d90-476d-ab8c-2b597618b5e6)
 
 <!--
 **AlloKuz/AlloKuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
